@@ -1,5 +1,7 @@
 # Food Price Early-Warning System (SDG 2: Zero Hunger)
 
+[![tests](https://github.com/Bak-AbasiUdoessien/sdg-food-price-early-warning/actions/workflows/tests.yml/badge.svg)](https://github.com/Bak-AbasiUdoessien/sdg-food-price-early-warning/actions/workflows/tests.yml)
+
 When the price of staple foods like rice, maize or garri suddenly jumps, poor households cut meals soon after. This project watches market prices and raises a flag the moment a price climbs well above its own recent normal level, so aid can arrive **before** hunger does.
 
 **SDG targets covered:** 2.1 (end hunger) and 2.c (limit extreme food price volatility).
